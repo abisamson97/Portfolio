@@ -274,7 +274,7 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/hero-bg.jpg") top right no-repeat;
+  background: url("../img/tech-pic.jpg") top right no-repeat;
   background-size: cover;
   position: relative;
 }
@@ -405,6 +405,7 @@ section {
   font-weight: 700;
   font-size: 26px;
   color: #728394;
+  margin-bottom: 40px;
 }
 
 .about .content ul {
@@ -413,7 +414,7 @@ section {
 }
 
 .about .content ul li {
-  margin-bottom: 20px;
+  margin-bottom: 10px;
   display: flex;
   align-items: center;
 }
@@ -432,7 +433,6 @@ section {
 .about .content p:last-child {
   margin-bottom: 0;
 }
-
 /*--------------------------------------------------------------
 # Facts
 --------------------------------------------------------------*/
@@ -479,7 +479,7 @@ section {
 # Akills
 --------------------------------------------------------------*/
 .skills .progress {
-  height: 60px;
+  height: 20px;
   display: block;
   background: none;
   border-radius: 0;
